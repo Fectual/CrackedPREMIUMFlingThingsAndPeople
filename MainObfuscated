@@ -1,7 +1,0 @@
-game:GetService("StarterGui"):SetCore("SendNotification", {Title = "Patched!", Text = "This script is patched!"})
-game:GetService("StarterGui"):SetCore("SendNotification", {Title = "Patched!", Text = "This script is patched!"})
-game:GetService("StarterGui"):SetCore("SendNotification", {Title = "Patched!", Text = "This script is patched!"})
-game:GetService("StarterGui"):SetCore("SendNotification", {Title = "Patched!", Text = "This script is patched!"})
-game:GetService("StarterGui"):SetCore("SendNotification", {Title = "Patched!", Text = "This script is patched!"})
-game:GetService("StarterGui"):SetCore("SendNotification", {Title = "Patched!", Text = "This script is patched!"})
-game:GetService("StarterGui"):SetCore("SendNotification", {Title = "Patched!", Text = "This script is patched!"})
